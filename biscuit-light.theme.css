@@ -9,10 +9,10 @@
 @import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/DiscordRecolor/DiscordRecolor.css');
 
 :root {
-  --accentcolor: 135,123,133;
-  --accentcolor2: 159,89,108;
-  --linkcolor: 135,137,133;
-  --mentioncolor: 198,132,108;
+  --accentcolor: 123,114,126;
+  --accentcolor2: 174,71,80;
+  --linkcolor: 151,145,111;
+  --mentioncolor: 205,145,101;
   --textbrightest: 72,57,57;
   --textbrighter: 72,57,57;
   --textbright: 72,57,57;
